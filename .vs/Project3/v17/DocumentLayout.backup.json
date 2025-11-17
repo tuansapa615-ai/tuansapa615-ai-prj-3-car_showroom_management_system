@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\headercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\headercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\report\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\report\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\vehicleimportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\vehicleimportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\vehiclesalesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\vehiclesalesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\report\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\report\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\reportcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\reportcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\employeescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\employeescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\billingcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\billingcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:my-app\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\vehiclesalesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\vehiclesalesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\wwwroot\\uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:wwwroot\\uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\servicescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\servicescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\waitinglistcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\waitinglistcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\controllers\\vehicleimportorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:controllers\\vehicleimportorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|c:\\users\\acer\\desktop\\project3\\models\\waitinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AA834B-B7F3-465D-B7F9-093729C3F8F6}|Project3.csproj|solutionrelative:models\\waitinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\Project3\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:20:23.482Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Header.cs",
+              "RelativeDocumentMoniker": "Models\\Header.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Header.cs",
+              "RelativeToolTip": "Models\\Header.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:11:34.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleSalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\VehicleSalesOrder.cs",
+              "RelativeDocumentMoniker": "Models\\VehicleSalesOrder.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\VehicleSalesOrder.cs",
+              "RelativeToolTip": "Models\\VehicleSalesOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:48:24.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleImportOrder.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\VehicleImportOrder.cs",
+              "RelativeDocumentMoniker": "Models\\VehicleImportOrder.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\VehicleImportOrder.cs",
+              "RelativeToolTip": "Models\\VehicleImportOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:31:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SummaryReport.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Report\\SummaryReport.cs",
+              "RelativeDocumentMoniker": "Models\\Report\\SummaryReport.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Report\\SummaryReport.cs",
+              "RelativeToolTip": "Models\\Report\\SummaryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:03:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:17:05.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:33:39.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:42:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\User.cs*",
+              "RelativeToolTip": "Models\\User.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:21:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ReportController .cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ReportController .cs",
+              "RelativeToolTip": "Controllers\\ReportController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:14:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Report\\ReportService.cs",
+              "RelativeDocumentMoniker": "Models\\Report\\ReportService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Report\\ReportService.cs",
+              "RelativeToolTip": "Models\\Report\\ReportService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:10:22.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "view.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\view.cs",
+              "RelativeDocumentMoniker": "Models\\view.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\view.cs",
+              "RelativeToolTip": "Models\\view.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:56:32.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ViewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViewController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ViewController.cs",
+              "RelativeToolTip": "Controllers\\ViewController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:16:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeaderController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\HeaderController .cs",
+              "RelativeDocumentMoniker": "Controllers\\HeaderController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\HeaderController .cs",
+              "RelativeToolTip": "Controllers\\HeaderController .cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:14:24.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Billing.cs",
+              "RelativeDocumentMoniker": "Models\\Billing.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Billing.cs",
+              "RelativeToolTip": "Models\\Billing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:41:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:16:24.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:03:08.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:47:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:31:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:16:08.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T01:23:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:36:35.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeesController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\EmployeesController .cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\EmployeesController .cs",
+              "RelativeToolTip": "Controllers\\EmployeesController .cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:04:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BillingController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\BillingController .cs",
+              "RelativeDocumentMoniker": "Controllers\\BillingController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\BillingController .cs",
+              "RelativeToolTip": "Controllers\\BillingController .cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:43:24.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:24:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:21:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAcwGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:23:00.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\my-app\\src\\App.js",
+              "RelativeDocumentMoniker": "my-app\\src\\App.js",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\my-app\\src\\App.js",
+              "RelativeToolTip": "my-app\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-10T20:01:51.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png - PNG [1920x560, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\wwwroot\\Uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png",
+              "RelativeDocumentMoniker": "wwwroot\\Uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\wwwroot\\Uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png - PNG [1920x560, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\Uploads\\2bc4bfdc-d08a-489a-9b5d-697e2261f8d1.png - PNG [1920x560, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-10T19:53:10.002Z",
+              "EditorCaption": " - PNG [1920x560, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VehicleSalesOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleSalesOrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleSalesOrdersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleSalesOrdersController.cs",
+              "RelativeToolTip": "Controllers\\VehicleSalesOrdersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:23:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServicesController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ServicesController .cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\ServicesController .cs",
+              "RelativeToolTip": "Controllers\\ServicesController .cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:39:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WaitingListController .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\WaitingListController .cs",
+              "RelativeDocumentMoniker": "Controllers\\WaitingListController .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\WaitingListController .cs",
+              "RelativeToolTip": "Controllers\\WaitingListController .cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwGQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:44:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:31:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VehicleImportOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleImportOrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleImportOrdersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\VehicleImportOrdersController.cs",
+              "RelativeToolTip": "Controllers\\VehicleImportOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:18:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WaitingList.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Models\\WaitingList.cs",
+              "RelativeDocumentMoniker": "Models\\WaitingList.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Models\\WaitingList.cs",
+              "RelativeToolTip": "Models\\WaitingList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:42:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Project3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:50:59.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
